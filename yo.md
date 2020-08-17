@@ -6,7 +6,7 @@ Mi nombre es *Diana Barbosa*, tengo 33 años, mis estudios son:
 
 ___
 
-Me desempeño como instructora y coordinadora de la plataforma virtual de [Cataleya, Centro de entrenamiento médico (<cataleyarcp.com>)]. 
+Me desempeño como instructora y coordinadora de la plataforma virtual de [Cataleya, Centro de entrenamiento médico] <www.cataleyarcp.com> 
 Te invitamos a visitar nuestra página web. 
 
 ___
